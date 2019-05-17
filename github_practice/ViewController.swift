@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // hello world
         // this is awesome
+        // i know how to add to github
     }
 
 
